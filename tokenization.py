@@ -25,6 +25,6 @@ def tokenize_file(input_file_path, output_file_path):
             output_file.write(line)
 
 # Example usage
-input_file_path = 'bad_sens_en.txt'
-output_file_path = 'ok_bad_sens_en.txt'
+input_file_path = 'input.txt'
+output_file_path = 'output.txt'
 tokenize_file(input_file_path, output_file_path)
