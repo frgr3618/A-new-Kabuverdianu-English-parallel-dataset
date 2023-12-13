@@ -15,9 +15,6 @@ To reach 2000 filtered and revised sentences, we went through the first 26796 se
 
 The uploaded text files are completely untokenized. The tokenization.py file in this repository is just meant to reproduce what I have used in my experiment, but any further user should use their own if they think they can ameliorate it. 
 
-
-
-
 ### Reference
 
 Jörg Tiedemann. 2012. Parallel Data, Tools and Interfaces in OPUS. In Proceedings of the Eighth International Conference on Language Resources and Evaluation (LREC'12), pages 2214–2218, Istanbul, Turkey. European Language Resources Association (ELRA
