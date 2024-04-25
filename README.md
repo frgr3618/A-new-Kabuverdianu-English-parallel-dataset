@@ -11,6 +11,8 @@ When sentences were slightly off by a few words, we used an online dictionary fr
 
 To reach 2000 filtered and revised sentences, we went through the first 26796 sentences of the noisy corpus.
 
+Just for my own personal satisfaction, please add a star to my project, peace.
+
 ## tokenization.py
 
 The uploaded text files are completely untokenized. The tokenization.py file in this repository is just meant to reproduce what I have used in my experiment, but any further user should use their own if they think they can ameliorate it. 
